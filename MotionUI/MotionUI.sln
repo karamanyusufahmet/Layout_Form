@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionUI", "MotionUI.csproj", "{7B8410DA-EED1-4CE0-89B8-0361D02CB5EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8410DA-EED1-4CE0-89B8-0361D02CB5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8410DA-EED1-4CE0-89B8-0361D02CB5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8410DA-EED1-4CE0-89B8-0361D02CB5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8410DA-EED1-4CE0-89B8-0361D02CB5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB2F70E-FFFA-4428-9A98-6E570678FF30}
+	EndGlobalSection
+EndGlobal
