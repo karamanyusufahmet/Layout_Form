@@ -12,6 +12,18 @@ namespace MotionUI.Properties
 {
 
 
+    //denemeee
+    //denekdlkha
+
+    
+    //denemeee
+    //denekdlkha
+    
+    //denemeee
+    //denekdlkha
+    
+    //denemeee
+    //denekdlkha
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
