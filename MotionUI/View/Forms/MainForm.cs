@@ -15,6 +15,10 @@ namespace MotionUI
         public MainForm()
         {
             InitializeComponent();
+            InitializeComponent();
+            InitializeComponent();
+            InitializeComponent();
+            InitializeComponent();
         }
 
     }
