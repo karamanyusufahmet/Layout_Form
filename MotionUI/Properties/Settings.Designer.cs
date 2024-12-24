@@ -24,6 +24,8 @@ namespace MotionUI.Properties
             get
             {
                 return defaultInstance;
+                return defaultInstance;
+                return defaultInstance;
             }
         }
     }
