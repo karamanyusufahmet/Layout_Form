@@ -18,11 +18,12 @@ namespace MotionUI.Properties
     {
 
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
-
+        private static deneme;
         public static Settings Default
         {
             get
             {
+                
                 return defaultInstance;
                 return defaultInstance;
                 return defaultInstance;
