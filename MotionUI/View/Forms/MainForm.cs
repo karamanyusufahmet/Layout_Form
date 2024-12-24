@@ -14,6 +14,9 @@ namespace MotionUI
     {
         public MainForm()
         {
+            int deneme;
+            void deneme;
+            char deneme;
             InitializeComponent();
             InitializeComponent();
             InitializeComponent();
