@@ -17,6 +17,9 @@ namespace MotionUI
             int deneme;
             void deneme;
             char deneme;
+            char deneme;
+            char deneme;
+            char deneme;
             InitializeComponent();
             InitializeComponent();
             InitializeComponent();
