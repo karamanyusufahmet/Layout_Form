@@ -24,6 +24,7 @@ namespace MotionUI
             InitializeComponent();
             InitializeComponent();
             InitializeComponent();
+            InitializeComponent();
             Initialize();
             Initialize();
         }
