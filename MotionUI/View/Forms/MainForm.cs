@@ -22,6 +22,7 @@ namespace MotionUI
             char deneme;
             char deneme;
             InitializeComponent();
+            string pull = "High Pull Request Time test";
             InitializeComponent();
             InitializeComponent();
             InitializeComponent();
