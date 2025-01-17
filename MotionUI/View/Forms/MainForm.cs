@@ -14,7 +14,26 @@ namespace MotionUI
     {
         public MainForm()
         {
+            int deneme;
+            int32 deneme;
+            int deneme;
+            double deneme;
+            double deneme;
+            double deneme;
+            char deneme;
+            char deneme;
             InitializeComponent();
+            string pull = "High Pull Request Time test";
+            InitializeComponent();
+            InitializeComponent();
+            InitializeComponent();
+            Initialize();
+            Initialize();
+        }
+
+        public void func_1()
+        {
+            int a = 5;
         }
 
     }
