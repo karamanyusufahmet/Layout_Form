@@ -31,5 +31,10 @@ namespace MotionUI
             Initialize();
         }
 
+        public void func_1()
+        {
+            int a = 5;
+        }
+
     }
 }
