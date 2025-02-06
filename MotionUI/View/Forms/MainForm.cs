@@ -14,7 +14,10 @@ namespace MotionUI
     {
         public MainForm()
         {
-            int deneme;
+            if(5=5)
+            {
+                int deneme;
+            }
             int32 deneme;
             int deneme;
             double deneme;
