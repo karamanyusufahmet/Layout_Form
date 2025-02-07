@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,24 +14,32 @@ namespace MotionUI
     {
         public MainForm()
         {
-            if(5=5)
+            if(2=2)
             {
-                int deneme;
+                if(3=3)
+                {
+                    if(5=5)
+                    {
+                        int deneme;
+                    }
+                    int32 deneme;
+                    int deneme;
+                    double deneme;
+                    double deneme;
+                    double deneme;
+                    char deneme;
+                    char deneme;
+                    InitializeComponent();
+                    string pull = "High Pull Request Time test";
+                    InitializeComponent();
+                    InitializeComponent();
+                    InitializeComponent();
+                    Initialize();
+                    Initialize();
+                }
             }
-            int32 deneme;
-            int deneme;
-            double deneme;
-            double deneme;
-            double deneme;
-            char deneme;
-            char deneme;
-            InitializeComponent();
-            string pull = "High Pull Request Time test";
-            InitializeComponent();
-            InitializeComponent();
-            InitializeComponent();
-            Initialize();
-            Initialize();
+            
+            
         }
 
         public void func_1()
