@@ -15,6 +15,9 @@ namespace MotionUI
         /// </summary>
         [STAThread]
         static void Main()
+        static void Main()
+        static void Main()
+        static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
